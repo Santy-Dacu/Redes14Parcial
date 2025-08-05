@@ -1,8 +1,8 @@
 Escáner de Red (TP Redes 5to Año)
 
-==========================
+=
 INFORMACIÓN GENERAL
-==========================
+=
 
 Este proyecto consiste en un escáner de red desarrollado en Java con interfaz gráfica (GUI).
 Permite detectar qué dispositivos están activos dentro de un rango de direcciones IP en una red local,
@@ -10,18 +10,18 @@ utilizando comandos del sistema como ping y nslookup.
 
 Desarrollado para la materia Redes - Escuela Técnica - 5to Año.
 
-==========================
+=
 REQUISITOS RECOMENDADOS
-==========================
+=
 
 - Java JDK 8 o superior
 - Eclipse IDE
 - Sistema operativo Windows
 - Acceso a una red local
 
-==========================
+=
 CÓMO USAR EL PROGRAMA
-==========================
+=
 
 1. Ingresar una dirección IP de inicio (por ejemplo: 192.168.0.1)
 2. Ingresar una dirección IP de fin (por ejemplo: 192.168.0.10)

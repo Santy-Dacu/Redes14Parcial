@@ -27,8 +27,7 @@ CÓMO USAR EL PROGRAMA
 2. Ingresar una dirección IP de fin (por ejemplo: 192.168.0.10)
 3. Presionar el botón "Escanear"
 4. Esperar a que se complete la barra de progreso
-5. Observar los resultados en la tabla: se muestra la IP, nombre del equipo, estado y tiempo de respuesta
-6. (Opcional) Presionar "Guardar" para exportar los resultados a un archivo llamado resultados.txt
-7. (Opcional) Usar el botón "Limpiar" para borrar los campos y la tabla
+5. (Opcional) Presionar "Guardar" para exportar los resultados
+6. (Opcional) Usar el botón "Limpiar" para borrar los campos y la tabla
 
 Autor/Alumno: Santino D'Acunti

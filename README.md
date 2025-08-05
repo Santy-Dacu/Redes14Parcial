@@ -1,4 +1,4 @@
-Escáner de Red (TP Redes 5to Año)
+Escáner de Red - TP Redes 5to Año
 
 =
 INFORMACIÓN GENERAL
@@ -8,7 +8,14 @@ Este proyecto consiste en un escáner de red desarrollado en Java con interfaz g
 Permite detectar qué dispositivos están activos dentro de un rango de direcciones IP en una red local,
 utilizando comandos del sistema como ping y nslookup.
 
-Desarrollado para la materia Redes - Escuela Técnica - 5to Año.
+- Tiene interfaz gráfica básica
+- Permite ingresar IP de inicio y fin
+- Verifica si las IPs están bien escritas
+- No realiza el escaneo todavía
+- No muestra resultados
+- No guarda archivo
+- No hay barra de progreso
+- No obtiene nombre de equipo
 
 =
 REQUISITOS RECOMENDADOS
